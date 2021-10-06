@@ -7,7 +7,8 @@
 
 🌱 Things I am currently working on:
 - I am working in Alibaba(China Hangzhou).
-- I recently studied Kotlin Multiplatform Mobile & Observability in Android.
+- I am still in my junior year in Center South University.
+- I recently studying Kotlin Multiplatform Mobile & Observability in Android.
 
 💪 Things I am challenging myself with:
 - Persist in visiting the open source community or make contribution every day.
