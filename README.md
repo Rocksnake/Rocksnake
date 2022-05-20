@@ -1,13 +1,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rocksnake)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rokobasilisk.yyw@gmail.com)
 
-## This is BrianYan! 
-
-### 👨🏻‍💻 &nbsp;About Me
-- I'm a senior in Central South University.
-- I am working in Alibaba (Base Hangzhou China). 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## This is Brian Yan! 
 
 🌱 Things I am currently working on:
 - I major in automation and minor in artificial intelligence.
