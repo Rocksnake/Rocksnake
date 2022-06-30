@@ -1,27 +1,40 @@
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rocksnake)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rokobasilisk.yyw@gmail.com)
-
-## This is Brian Yan! 
-
-🌱 Things I am currently working on:
-- I major in automation and minor in artificial intelligence.
-- I am keen to study Multiplatform technology and observability in the mobile field.
-- I love open source and contribute to multiple open source communities.
-- I always devote myself to public welfare and contribute to the society.
-
-💪 Things I am challenging myself with:
-- Persist in visiting the open source community or make contribution every day.
-- If you have the same interest, you can contact me with Wechat: RokoBasilisk-ywy, and join in our open source team.
-
-### ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+<h1 align="center">🤠 Howdy! I'm BrianYan(Rocksnake)</h1>
 
 <p align="center">
-<a href="https://github.com/Rocksnake">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rocksnake&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+I'm a developer and designer building digital products using Lean Design principles. 
+I'm also approver of @cncf and contributor of @open-telemetry, @JetBrains, @FuchsiaOS, @android. 
+I currently focus on cross-platform framework, observability and open source.
 </p>
 
+<p align="center"> 
+Contact me(WeChat): RokoBasilisk-ywy
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-rocksnake-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E5%AE%87%E5%A8%81-%E9%97%AB-78236718a/)](https://www.linkedin.com/in/%E5%AE%87%E5%A8%81-%E9%97%AB-78236718a/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rocksnake)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rokobasilisk.yyw@gmail.com)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rocksnake.rocksnake) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/rocksnake) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rocksnake)
+</div>
+<br/>
+
+### ⚙️ &nbsp;Quick stats about me
+<div align="center">
+<p>
+Persist in visiting the open source community or make contribution every day.
+</p>
+  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rocksnake&theme=default)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rocksnake&theme=default)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rocksnake&theme=default)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rocksnake&theme=default)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rocksnake&theme=default&utcOffset=8)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rocksnake&theme=default&utcOffset=8)
+</div>
+
 ### 🛠 &nbsp;Tech Stack
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp; ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<code>![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)</code>&nbsp;
+<code>![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)</code>&nbsp;
+<code>![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)</code>&nbsp;
+<code>![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)</code>&nbsp;
+<code>![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)</code>&nbsp;
+<code>![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)</code>&nbsp;
