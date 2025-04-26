@@ -1,35 +1,29 @@
-<div align="center">
-<h1 align="center">🤠 Howdy! I'm BrianYan(Rocksnake)</h1>
+<div>
+<h1 align="center">🤠 Howdy! I'm BrianYan</h1>
 
-<p align="center">
+<p>
 I'm a developer and designer building digital products using Lean Design principles. 
 I'm also approver of @cncf and contributor of @open-telemetry, @JetBrains, @FuchsiaOS, @android. 
 I currently focus on cross-platform framework, observability and open source.
 </p>
 
-<p align="center"> 
+<p> 
 Contact me(WeChat): RokoBasilisk-ywy
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-rocksnake-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E5%AE%87%E5%A8%81-%E9%97%AB-78236718a/)](https://www.linkedin.com/in/%E5%AE%87%E5%A8%81-%E9%97%AB-78236718a/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rocksnake)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rokobasilisk.yyw@gmail.com)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rocksnake.rocksnake) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/rocksnake) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rocksnake)
 </div>
 <br/>
 
 ### ⚙️ &nbsp;Quick stats about me
-<div align="center">
+<div>
 <p>
 Persist in visiting the open source community or make contribution every day.
 </p>
-  
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rocksnake&theme=default)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rocksnake&theme=default)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rocksnake&theme=default)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rocksnake&theme=default)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rocksnake&theme=default&utcOffset=8)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rocksnake&theme=default&utcOffset=8)
-</div>
 
 ### 🛠 &nbsp;Tech Stack
 <code>![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)</code>&nbsp;
